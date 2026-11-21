@@ -10,8 +10,8 @@ Python, C, Machine Learning, Algorithms and Open Source.
 - Improving debugging, testing and code-review skills
 
 ## Technical Skills
-Python • C • Bash • DSA • Git • Linux
-NumPy • Pandas • Scikit-learn
+Python • C • Bash • DSA • Git • Linux 
+ NumPy • Pandas • Scikit-learn
 
 ## Featured Projects
 🔐 AI Phishing Detection
