@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Prince Mann 👋
 
-<!--
-**Prince-Mann94/Prince-Mann94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Computer Science student at UPES interested in
+Python, C, Machine Learning, Algorithms and Open Source.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Solving DSA and algorithmic problems
+- Building ML-based detection systems
+- Contributing to open-source projects
+- Improving debugging, testing and code-review skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+Python • C • Bash • DSA • Git • Linux
+NumPy • Pandas • Scikit-learn
+
+## Featured Projects
+🔐 AI Phishing Detection
+📊 Isolation Forest Anomaly Detection
+🧠 100 Days of Code
+⚙️ DSA Implementations
